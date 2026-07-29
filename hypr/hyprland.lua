@@ -1,6 +1,7 @@
 require("style")
 require("autostart")
 require("keybinds")
+require("monitors")
 
 ------------------
 ---- MONITORS ----
