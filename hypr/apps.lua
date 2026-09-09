@@ -2,7 +2,7 @@ local apps = {
 	terminal    = "kitty",
 	fileManager = "thunar",
 	menu        = "wofi --show drun,run",
-	locker	    = "hyprlock",
+	locker	    = "lock",
 
 	--- Screenshot utils
 	screenshot_region_copy = 'grim -g "$(slurp)" - | wl-copy',
